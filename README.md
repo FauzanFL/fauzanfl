@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
 
-<!--
-**FauzanFL/fauzanfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Fauzan Fashihul Lisan
+I am a student from [Telkom Institute of Technology Purwokerto](https://ittelkom-pwt.ac.id/), majoring in Software Engineering. My speciality is Web Development
 
-Here are some ideas to get you started:
+## 👯 Socials
+[![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fauzan_fl/)
+[![LINKEDIN](https://img.shields.io/badge/FOLLOW%20ME-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fauzanfl)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Github Stats
+<p align="left">
+<a href="https://github.com/fauzanfl">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fauzanfl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fauzanfl&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
