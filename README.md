@@ -1,7 +1,7 @@
 ## Hello There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
 
 I am Fauzan Fashihul Lisan
-I am a student from [Telkom Institute of Technology Purwokerto](https://ittelkom-pwt.ac.id/), majoring in Software Engineering. My speciality is Web Development
+I am a student at [Telkom Institute of Technology Purwokerto](https://ittelkom-pwt.ac.id/), majoring in Software Engineering. My speciality is Web Development
 
 ## 👯 Socials
 [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fauzan_fl/)
