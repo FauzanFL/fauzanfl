@@ -4,7 +4,7 @@ I am Fauzan Fashihul Lisan
 I am a fresh graduate from [Telkom Institute of Technology Purwokerto](https://ittelkom-pwt.ac.id/), majoring in Software Engineering. My speciality is Web Development
 
 ## 👯 Socials
-[![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/fauzan_fl/)
+[![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/farthas/)
 [![LINKEDIN](https://img.shields.io/badge/FOLLOW%20ME-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fauzanfl)
 
 ## 📈 Github Stats
